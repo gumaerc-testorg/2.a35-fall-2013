@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: abc2a60f-fb16-8421-a8fb-76eb80632f82
 ---
@@ -54,20 +56,6 @@ All freshman
 ### Breakdown by Major
 
 When choosing a Freshman Advising Seminar, students are encouraged not to focus too intently on what they think their majors might be.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A classroom with several dozen student desks, blackboards, and a projector.]({{< resource_file c6303dce-6afc-9b12-c27e-483f1d57c83a >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    The weekly seminars took place in this classroom.
-    
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
