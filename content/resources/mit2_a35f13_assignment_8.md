@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3b826f30-262d-e568-557c-ba10068b0e76
 resourcetype: Document
 title: 'Assignment: Democracy and Genetic Algorithms'
 uid: d83e2015-26df-3498-f736-3a236a9d619f
