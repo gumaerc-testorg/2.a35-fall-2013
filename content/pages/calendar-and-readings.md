@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, readings, and due
+  dates for assignments.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -136,7 +138,7 @@ Discuss Chapters 7 and 8.
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Genetic Algorithms (PDF)]({{< baseurl >}}/resources/mit2_a35f13_genetic_algo)
+{{% resource_link 5e9a2eed-9c18-73f0-5e5e-13023f5e71ce "Genetic Algorithms (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section describes some necessary steps in biomimesis and provides
+  a simple example.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Biomimetic Principles

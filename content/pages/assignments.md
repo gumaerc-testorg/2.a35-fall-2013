@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments along with
+  supporting materials.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -185,7 +187,7 @@ _"When you get sick do you go around the neighborhood asking for advice?"
 "No, you go to a good captain who will do the job right."  
 "Then," asks Socrates after a few similar questions (with similar answers), "when we need advice about our country, on whose fate our own safety and happiness totally depend, why should go around asking the opinion of every person, however unwise they may be? Shouldn’t we go to specialists in the art of politics and government?"_
 
-[Continue to Assignment 8: Democracy and Genetic Algorithms (PDF)]({{< baseurl >}}/resources/mit2_a35f13_assignment_8)
+{{% resource_link d83e2015-26df-3498-f736-3a236a9d619f "Continue to Assignment 8: Democracy and Genetic Algorithms (PDF)" %}}
 
 
 {{< tdclose >}}
