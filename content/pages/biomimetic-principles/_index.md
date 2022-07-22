@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides an introduction to biomimetic principles.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Biomimetic Principles
 uid: 20cb1e28-7007-1ed7-682b-29680ed42566
 ---

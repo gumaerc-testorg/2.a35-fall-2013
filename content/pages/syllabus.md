@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides an introduction to biomimetics and information
+  on course meeting times, prerequisites, the textbook, and how the class is taught.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 263445f0-d1de-705f-b647-ba114434dbdd
 ---

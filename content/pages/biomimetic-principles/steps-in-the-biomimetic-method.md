@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section describes some necessary steps in biomimesis and provides
+  a simple example.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Biomimetic Principles
+parent_type: CourseSection
 parent_uid: 20cb1e28-7007-1ed7-682b-29680ed42566
 title: Steps in the Biomimetic Method
 uid: bec69de0-cdac-552b-3e23-dfce74ec3403
