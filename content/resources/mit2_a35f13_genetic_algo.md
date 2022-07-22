@@ -5,6 +5,7 @@ file: /courses/2-a35-biomimetic-principles-and-design-fall-2013/5e9a2eed9c1873f0
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Genetic Algorithms
 uid: 5e9a2eed-9c18-73f0-5e5e-13023f5e71ce
 ---
 Example of a genetic algorithm solution of an optimization problem.
-

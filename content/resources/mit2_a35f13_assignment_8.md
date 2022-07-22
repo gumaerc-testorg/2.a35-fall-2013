@@ -5,6 +5,7 @@ file: /courses/2-a35-biomimetic-principles-and-design-fall-2013/d83e201526df3498
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Assignment: Democracy and Genetic Algorithms'
 uid: d83e2015-26df-3498-f736-3a236a9d619f
 ---
 Assignment to construct a defense for democracy using genetic algorithms.
-
