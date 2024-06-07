@@ -113,7 +113,7 @@ Session 5
 
 Read this paper on swimming fish:
 
-Triantafyllou, Michael S., and George S. Triantafyllou. "{{% resource_link "1f5d4411-4e02-4bb1-8500-4af52cb756c1" "An Efficient Swimming Machine" %}}." _Scientific American_ 272, no. 3 (1995): 64–71.
+Triantafyllou, Michael S., and George S. Triantafyllou. "[An Efficient Swimming Machine](http://dx.doi.org/10.1038/scientificamerican0395-64)." _Scientific American_ 272, no. 3 (1995): 64–71.
 
 
 {{< tdclose >}}
@@ -131,13 +131,13 @@ Session 6
 
 1\. Study the paper on the Strouhal number.
 
-Taylor, Graham K., Robert L. Nudds, et al. "{{% resource_link "a9318537-7887-4b91-8db2-82eb8e54745f" "Flying and Swimming Animals Cruise at a Strouhal Number Tuned for High Power Efficiency" %}}." _Nature_ 425, no. 6959 (2003): 707–11.
+Taylor, Graham K., Robert L. Nudds, et al. "[Flying and Swimming Animals Cruise at a Strouhal Number Tuned for High Power Efficiency](http://dx.doi.org/10.1038/nature02000)." _Nature_ 425, no. 6959 (2003): 707–11.
 
 Write a short outline of what you think is the biomimetic method in this paper. How do the authors confirm a natural law?
 
 2\. Study this paper on genetic algorithms:
 
-Holland, John H. "{{% resource_link "00313a8d-d4cd-4bb5-87a9-d4965763d8d0" "Genetic Algorithms" %}}." _Scientific American_ 267, no. 1 (1992): 66–72.
+Holland, John H. "[Genetic Algorithms](http://dx.doi.org/10.1038/scientificamerican0792-66)." _Scientific American_ 267, no. 1 (1992): 66–72.
 
 
 {{< tdclose >}}
@@ -155,11 +155,11 @@ Session 8
 
 Choose one of the following papers:
 
-Carpenter, Jennifer. "{{% resource_link "2c9f51e5-986f-4287-aeae-21b409c0368e" "May the Best Analyst Win" %}}." _Science_ 331, no. 6018 (2011): 698–9.
+Carpenter, Jennifer. "[May the Best Analyst Win](http://dx.doi.org/10.1126/science.331.6018.698)." _Science_ 331, no. 6018 (2011): 698–9.
 
-Woolley, Anita Williams, Christopher F. Chabris, et al. "{{% resource_link "0bf8210f-9f0b-4e3a-bb72-8fbe9c718170" "Evidence for a Collective Intelligence Factor in the Performance of Human Groups" %}}." _Science_ 330, no. 6004 (2010): 686–8.
+Woolley, Anita Williams, Christopher F. Chabris, et al. "[Evidence for a Collective Intelligence Factor in the Performance of Human Groups](http://dx.doi.org/10.1126/science.1193147)." _Science_ 330, no. 6004 (2010): 686–8.
 
-Chittka, Lars, and Alex Mesoudi. "{{% resource_link "bfdcc07e-90bf-4cf8-b8a8-4bbd9367b6f8" "Insect Swarm Intelligence" %}}." _Science_ 331, no. 6016 (2011): 401–2.
+Chittka, Lars, and Alex Mesoudi. "[Insect Swarm Intelligence](http://dx.doi.org/10.1126/science.1199780)." _Science_ 331, no. 6016 (2011): 401–2.
 
 Prepare a short presentation based on the paper.
 
