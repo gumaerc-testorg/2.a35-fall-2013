@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 2.A35 was taught in this classroom in Fall 2013.
-file: /courses/2-a35-biomimetic-principles-and-design-fall-2013/c6303dce6afc9b12c27e483f1d57c83a_2.A35_classroom.jpg
+file: /ol-ocw-studio-app/courses/2-a35-biomimetic-principles-and-design-fall-2013/c6303dce6afc9b12c27e483f1d57c83a_2.A35_classroom.jpg
 file_size: 96119
 file_type: image/jpeg
 image_metadata:
