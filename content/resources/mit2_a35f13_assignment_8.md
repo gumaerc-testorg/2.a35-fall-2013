@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment to construct a defense for democracy using genetic algorithms.
-file: /ol-ocw-studio-app/courses/2-a35-biomimetic-principles-and-design-fall-2013/d83e201526df3498f7363a236a9d619f_MIT2_A35F13_assignment_8.pdf
+file: /courses/2-a35-biomimetic-principles-and-design-fall-2013/d83e201526df3498f7363a236a9d619f_MIT2_A35F13_assignment_8.pdf
 file_size: 539323
 file_type: application/pdf
 learning_resource_types:
